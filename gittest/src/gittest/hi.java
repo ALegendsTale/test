@@ -2,7 +2,8 @@ package gittest;
 
 public class hi {
 	public static void main(String[] args){
-		System.out.println("okay");
+		System.out.println("Yeah");
+		System.out.println("what");
 	}
 //hi
 }
